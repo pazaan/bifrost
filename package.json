@@ -1,0 +1,19 @@
+{
+  "name": "@pazaan/bifrost",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pazaan/bifrost.git",
+  "author": "Lennart Goedhart <lennart@omnibase.com.au>)",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ajv": "6.10.2",
+    "esm": "3.2.25",
+    "fast-json-patch": "3.0.0-1"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
