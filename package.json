@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "ajv": "6.10.2",
+    "ajv": "6.12.3",
     "esm": "3.2.25",
     "fast-json-patch": "3.0.0-1"
   },
